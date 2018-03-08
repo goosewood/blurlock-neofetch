@@ -20,6 +20,6 @@ I also recommend adding this line to your i3.conf to make it look *much* better
 
     for_window [instance='lock'] floating enable; focus floating
 
-I have compton command on their, but you can remove those or add whatever
-composite manager you use. I like transperant terminals, but if I don't
+I have compton command on there, but you can remove those or add whatever
+composite manager you use. I like transparent terminals, but if I don't
 want people reading my screen when I get up, that doesn't work lol.
