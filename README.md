@@ -23,3 +23,8 @@ I also recommend adding this line to your i3.conf to make it look *much* better
 I have compton command on there, but you can remove those or add whatever
 composite manager you use. I like transparent terminals, but if I don't
 want people reading my screen when I get up, that doesn't work lol.
+
+# Credit
+
+Some of the imagemagick commands were taken from another script that for the
+life of me I can't remeber the name of, sorry :c
