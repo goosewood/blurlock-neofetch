@@ -18,7 +18,7 @@ have to fiddle with the internal settings, mainly your neofetch commands (I
 have it pointing to an image on file), and whatever terminal you use.
 
 I also recommend adding this line to your i3.conf to make it look *much* better
-(or even work, I forget if the "focus floating line was redundant or not)
+(or even work, I forget if the "focus floating" line was redundant or not)
 
     for_window [instance='lock'] floating enable; focus floating
 
