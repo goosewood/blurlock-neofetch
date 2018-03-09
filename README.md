@@ -2,6 +2,8 @@
 
 A simple package that makes a blurry i3lock screen, but now with neofetch!
 
+![](2018-03-09-17-59-33.png)
+
 # Decencies
 
 * i3lock
